@@ -33,3 +33,20 @@ Game library built within python which allows you to view, add, find, and remove
 - reading and writing files
 - file -> dictionary / dictionary -> file
 - data persistence
+
+**V3 Updates**
+- split the application into separate modules
+- separated game logic, file storage and input validation
+- structured application around main() function
+- added if __name__ == "__main__" as the program entry point
+
+**V3 structure**
+- main.py controls the main program and menu
+- games.py contains / handles game operation
+- storage.py loads and saves data
+- validation.py handles input validation
+- test2.txt stores saved game data
+
+**V3 concepts learned**
+- utilizing modules to organise a project into separate components
+- work with file paths using os.path 
