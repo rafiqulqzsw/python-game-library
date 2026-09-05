@@ -1,0 +1,6 @@
+terraria,10
+minecraft,4
+fortnite,8
+honkai,9
+zzz,9
+madmdsa,6

@@ -1,7 +1,0 @@
-terraria,10
-minecraft,9
-fortnite,8
-honkai,3
-zzz,7
-madmdsa,6
-gta,10
